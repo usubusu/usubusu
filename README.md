@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @usubusu
-- 👀 I’m interested in games and game development
-- 🌱 I’m currently learning Blender and thereby 3D environment arts
-- 💞️ I’m looking to collaborate on making a game
-- 🏴 I want to become a game 3D artist
+- 👋 Hi, I’m @usubusu - you can call me USB.
+- 🌱 Co-founder of NullZone Studios.
+- 💻 Programmer, game designer & 3D artist.
+- 🌍 Currently working on Proxima Survival.
 
 <!---
 usubusu/usubusu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
